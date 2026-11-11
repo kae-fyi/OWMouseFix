@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a3af1d3f-f576-417b-89b4-7e0db5e77dc1)
+<img width="900" height="300" alt="Mouse Fix" src="https://github.com/user-attachments/assets/f5d2a7a5-c356-420b-988a-e2ca12af8387" />
 
 this mod fixes mouse input in Outer Wilds.
 
